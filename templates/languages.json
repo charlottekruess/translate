@@ -1,0 +1,34 @@
+{
+    "system": "pap",
+    "systemVersion": 1,
+    "languages": [
+        {
+            "file": "pap_english.json",
+            "language": "english",
+            "direction": "LTR",
+            "languageEnglish": "english",
+            "language_tags": [
+                "en-us",
+                "en-gb"
+            ]
+        },
+        {
+            "file": "pap_dansk.json",
+            "language": "dansk",
+            "direction": "LTR",
+            "languageEnglish": "danish",
+            "language_tags": [
+                "da"
+            ]
+        },
+        {
+            "file": "pap_arabic.json",
+            "language": "Arabic",
+            "direction": "RTL",
+            "languageEnglish": "Arabic",
+            "language_tags": [
+                "ar-SA"
+            ]
+        }
+    ]
+}
